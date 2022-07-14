@@ -6,6 +6,8 @@ Based on Raspberry Pi 3+ classifier with PyTorch trained resnet101
 
 Презентации скачать по ссылке https://disk.yandex.ru/d/qvTuK3UYh_CyFg .
 
+Код обучения сети по ссылке: https://www.kaggle.com/code/besserwisser/garbage-classifier-resnet101-finetune
+
 To Do:
 * добавить запуск анализа по кнопке
 * добавить управление двигателями для остальных ящиков
